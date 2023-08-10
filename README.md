@@ -1,14 +1,6 @@
-<h1>Python</h1>
+# Python
+Seja bem-vindo(a)! Bom aqui você encontrará tudo aquilo que venho estudando em python, acredito que um repositório com apenas scripts não entregam o verdadeiro proposito daquilo que venho estudando,
+como o por que não usei o método y, mesmo sabendo que o método x já se considera ultrapassado ou de onde tirei minhas refêrencias para criar ou pensar de tal forma. Para resolver este problema decide documentar meus scripts, gerando aquilo que chamamos de "artigo"? bom acho que posso chamar assim, enfim isso de certa maneira mostrará meu avanço, então será tão bom para você caro leitor quanto para mim.
+Sem mais delongas, espero que este repositório possa te ajudar.
 
-<main>
-   <img src="/Python/assets/103785905/ac2cb90f-986d-4f3f-94ca-68503cfa6504">
-</main>
-
-<main>
-  <h2>Estudos</h2>
-  <article>
-    <p>
-      Neste repositório, você encontrará algumas referências daquilo que atualmente venho estudando, acredito que para não deixar apenas scripts aqui, irei escrever "artigos" com base no códigos-fonte encontrados por aqui, seja referênciando um livro, ou até mesmo por que usei método x, se o metodo y poderia ser melhor, existem muitas áreas em que tenho interesse, porém a área de ciência de dados me atrai, então grande parte dos estudos encontrados por aqui, sendo de forma direta ou indireta são voltados para um ganho de experiência por assim dizer.
-    </p>
-  </article>
-</main>
+![Olá,  mundo!](https://github.com/Diogonogueirasantos/Python/blob/main/Ola_mundo.gif)
